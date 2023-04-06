@@ -1,7 +1,5 @@
 Digitalmedia - We Take Care of Your Brand
 
-This is a digital marketing agency html template made by codewithsadee
-
 
 
 #---------- HEADER ----------#
@@ -109,8 +107,6 @@ Report a Bug
 
 &copy; 2023 Digitalmedia, Inc. - Developed By
 
-href = https://www.youtube.com/@codewithsadee
-codewithsadee
 
 Terms of use
 Privacy policy
